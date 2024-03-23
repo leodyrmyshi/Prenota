@@ -2,9 +2,9 @@
 
 Questo progetto prevede la creazione di un sito di prenotazioni. 
 Abbimao creato una cartella sul desktop dnadole il nome di prenota, successivamente l'abbiamo aperta nel terminale e abbiamo scritto:
-###
+
   ![image](https://github.com/leodyrmyshi/prenota/assets/116791297/07d88e52-895a-44cd-9d9f-6a8c1fdee945)
-###
+  
   una volta che l'ho aperto su visual studio code, l'ho lanciato e c'era questo 
 ![image](https://github.com/leodyrmyshi/prenota/assets/116791297/3679dd44-ba84-4372-9d95-122f80230e1e)
 
